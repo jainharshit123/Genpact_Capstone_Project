@@ -1,6 +1,6 @@
 
 import React from 'react';
-import Navbar from '../components/navbar.jsx';
+import Navbar from '../components/Navbar.jsx';
 import herb1 from './images/bg_img1.webp';
 import herb3 from './images/herb3.png';
 import ImageSlider from './ImageSlider.jsx';
